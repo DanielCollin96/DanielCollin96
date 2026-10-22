@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am currently working on probabilistic machine learning and imbalanced regression, aiming to improve real-time space weather forecasting.
+
 <!--
 **DanielCollin96/DanielCollin96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
