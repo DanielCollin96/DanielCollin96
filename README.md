@@ -16,4 +16,4 @@ predicting the solar wind and coronal mass ejections (CMEs) from solar images an
 
 
 ## Contact
-[Email](daniel.collin@web.de) [Google Scholar](https://scholar.google.com/citations?user=WlNgxkAAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/daniel-collin-52abb0205)
+daniel.collin@web.de · [Google Scholar](https://scholar.google.com/citations?user=WlNgxkAAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/daniel-collin-52abb0205)
